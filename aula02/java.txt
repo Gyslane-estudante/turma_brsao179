@@ -1,0 +1,9 @@
+public class HelloGyslane{
+    public static void main(String[] args){
+        String nome = "Gyslane Oliveira"
+        if(nome.equals("Gyslane Oliveira)){
+            System.out.print("Tá certo!!!!")
+
+        }
+    }
+}
